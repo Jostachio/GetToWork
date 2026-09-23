@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# Environment / secrets
+.env
+
+# XAMPP
+xampp/
+
+# OS files
+Thumbs.db
+.DS_Store
