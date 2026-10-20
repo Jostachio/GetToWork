@@ -19,4 +19,7 @@ Development Environment: XAMPP
 Database Management Tool: phpMyAdmin
 Version Control: Git & GitHub
 
+Deployment Status:
+*The project was previously deployed but is currently only accessible locally due to the expiration of the hosting service.
+
 *This project was developed for academic purposes as part of a team assignment.
